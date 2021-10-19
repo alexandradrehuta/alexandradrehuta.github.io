@@ -1,6 +1,6 @@
 
 ## About me ^.^
-- software ingineer 
+- software engineer 
 - master’s degree student at the Polytechnic University of Bucharest
 - love pizza
 
